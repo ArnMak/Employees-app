@@ -15,3 +15,7 @@
     width: 350px;
     margin-right: 20px;
 }
+
+.form-error {
+    border: 2px solid rgba(255, 0, 0, 0.7);
+}
